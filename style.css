@@ -83,7 +83,6 @@ button{
     border: none;
     border-radius: 5px;
 }
-
 .card-three{
     display: flex;
     margin: 100px 70px 30px 200px;
@@ -97,7 +96,6 @@ button{
     border-radius: 5px;
     background-color: rgba(211, 208, 208, 0.214);
     margin: 0px 10px 0px 10px;
-
 }
 .food-shel-edu img
 {
@@ -133,7 +131,6 @@ button{
     color: rgb(124, 122, 122);
     padding-bottom: 15px;
 }
-
 .donation-img img
 {
     width: 500px;
@@ -164,7 +161,6 @@ button{
 .event1 h1{
     font-size: 40px;
 }
-
 .event1 ul
 {
     padding-top: 20px;
