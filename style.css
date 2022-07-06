@@ -1,5 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     font-family: 'Open Sans', sans-serif;
 
     font-family: 'Poppins', sans-serif;
 }
+.banner
+{
+    background-image: url(images/donation5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.banner-text
+{
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+
+}
+.banner-text h1{
+    font-size: 70px;
+    padding-bottom: 50px;
+    line-height: 70px;
+
+}
+.banner-ancor{
+    background-color: rgb(212, 73, 73);
+    text-decoration: none;
+    color:white;
+    font-size: 30px;
+    padding: 10px 40px;
+
+}
+
